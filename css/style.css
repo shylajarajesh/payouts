@@ -1,0 +1,11 @@
+body {
+  background-color: powderblue;
+}
+.error{
+	color : red;
+	padding :10px 0 0 0;
+}
+button{
+	color : #fff;
+	background-color : blue;
+}
